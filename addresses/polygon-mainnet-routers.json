@@ -1,0 +1,75 @@
+{
+    "aave": {
+        "lendingPoolAddressProvider": "0xd05e3E715d945B59290df0ae8eF85c1BdB684744",
+        "lendingPool": "0x8dFf5E27EA6b7AC08EbFdf9eB090F32ee9a30fcf",
+        "poolAddressProvider": "0xa97684ead0e402dC232d5A977953DF7ECBaB3CDb",
+        "pool": "0x794a61358D6845594F94dc1DB02A252b5b4814aD"
+    },
+    "dydx": {
+        "solo": "0x1E0447b19BB6EcFdAe1e4AE1694b0C3659614e4e"
+    },
+    "apeswap": {
+        "router": "0xC0788A3aD43d79aa53B09c2EaCc313A787d1d607"
+    },
+    "elk": {
+        "router": "0xf38a7A7Ac2D745E2204c13F824c00139DF831FFf"
+    },
+    "empire": {
+        "router": "0xB2855A6dAeeBDB72B0176A479A983066ae9775A6"
+    },
+    "fraxswap": {
+        "router": "0xE52D0337904D4D0519EF7487e707268E1DB6495F"
+    },
+    "kwikswap": {
+        "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff"
+    },
+    "oneinch": {
+        "router": "0x11111112542D85B3EF69AE05771c2dCCff4fAa26"
+    },
+    "orionprotocol": {
+        "router": "0x93bcDc45f7e62f89a8e901DC4A0E2c6C427D9F25"
+    },
+    "pancakeswap": {
+        "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff"
+    },
+    "radioshack": {
+        "router": "0xAf877420786516FC6692372c209e0056169eebAf"
+    },
+    "safeswap": {
+        "router": "0xC02D3bbe950C4Bde21345c8c9Db58b7aF57C6668"
+    },
+    "sashimiswap": {
+        "router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+    },
+    "shibaswap": {
+        "router": "0xA102072A4C07F06EC3B4900FDC4C7B80b6c57429"
+    },
+    "sumswap": {
+        "router": "0x51aBA405De2b25E5506DeA32A6697F450cEB1a17"
+    },
+    "sushiswap": {
+        "router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+    },
+    "swapr": {
+        "router": "0x94930a328162957FF1dd48900aF67B5439336cBD"
+    },
+    "swapsicle": {
+        "router": "0x5C6EC38fb0e2609672BDf628B1fD605A523E5923"
+    },
+    "unicly": {
+        "router": "0xBCA055F25c3670fE0b1463e8d470585Fe15Ca819"
+    },
+    "uniswap": {
+        "router": "0x57dE98135e8287F163c59cA4fF45f1341b680248"
+    },
+    "yapeswap": {
+        "router": "0x0000000000000000000000000000000000000000"
+    },
+    "youswap": {
+        "router": "0x0000000000000000000000000000000000000000"
+    },
+    "uniswapv3": {
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "quoter": "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6"
+    }
+}
